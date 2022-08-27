@@ -1,4 +1,4 @@
-# UniEnumUtils
+# Kogane Enum Utils
 
 列挙型に関する汎用関数を管理するクラス
 
